@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/afghan_backpack.iml" filepath="$PROJECT_DIR$/.idea/afghan_backpack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/afghan_backpack_android.iml" filepath="$PROJECT_DIR$/android/afghan_backpack_android.iml" />
     </modules>
   </component>
 </project>
